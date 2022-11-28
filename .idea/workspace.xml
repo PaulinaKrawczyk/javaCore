@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd9e60fe-0f5f-477c-8d78-44c571560ae7" name="Changes" comment="first" />
+    <list default="true" id="cd9e60fe-0f5f-477c-8d78-44c571560ae7" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/BarkingDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/DecimalComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/EqualSumChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/MegaBytesConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/SpeedConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session4/ArraysPlayground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session4/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session4/PrimeNumbersFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session4/ProperDivisionFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session4/StringBuilderPlayground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/CandyShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/PalindromeStringChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/PersonLogicInvoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/VowelConsonantCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,18 +40,24 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HXfhm2PhNV4QkgvOQ0CfeLrt16" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668604978650</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first">
+      <created>1668605417679</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668605417679</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first">
+      <created>1668605503169</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668605503169</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
